@@ -1,0 +1,16 @@
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\M6_UnitTesting.exe
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\M6_UnitTesting.pdb
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\M6_UnitTesting.exe.config
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Andrii\Source\Repos\M6_UnitTesting\UnitTestProject\obj\Debug\UnitTestProject.pdb
